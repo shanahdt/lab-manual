@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'lab-handbook'
+project = 'lab-manual'
 copyright = '2021, Daniel Shanahan'
 author = 'Daniel Shanahan'
 
